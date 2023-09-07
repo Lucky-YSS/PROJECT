@@ -1,0 +1,12 @@
+{
+  "name": "fy-date",
+  "version": "1.0.0",
+  "description": "前端处理日期相关的工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Yang",
+  "license": "ISC",
+  "keywords": ["date","js","日期工具类","date.js","日期处理","dateformat","datejs","日期计算"]
+}
